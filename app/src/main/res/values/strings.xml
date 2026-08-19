@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MR空间塔防：九宫格坚守</string>
+    <string name="game_title">MR空间塔防：九宫格坚守</string>
+    <string name="spatial_ready">正在检测可用于布置九宫格战场的空间平面</string>
+    <string name="permission_title">空间能力受限</string>
+    <string name="permission_message">相机或空间数据权限未授权。游戏仍可启动，但真实环境平面检测与塔位放置将不可用。</string>
+    <string name="permission_status_denied">已进入降级模式：空间平面检测不可用</string>
+    <string name="permission_status_ready">空间权限已就绪</string>
+    <string name="continue_limited">以降级模式继续</string>
+    <string name="open_settings">打开设置</string>
+    <string name="detected_plane_count">已检测到 %1$d 个空间平面</string>
+    <string name="spatial_paused">空间平面检测已暂停</string>
+    <string name="spatial_failed">空间能力初始化失败：%1$s</string>
+</resources>
